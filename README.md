@@ -17,7 +17,7 @@ With recent advances in machine learning models, there has been a growing effort
     <td> <div align=center> <b>Dong-hyun, Son</b> </div> </td>
     <td> <div align=center> <b>Da-Woon, Kim</b> </div> </td>
     <td> <div align=center> <b>Sang-hyeok, Seo</b> </div> </td>
-    <td> <div align=center> <b>Jun-hyeok, Seo</b> </div> </td>
+    <td> <div align=center> <b>Jun-hyeok, Seo (BuAs)</b> </div> </td>
   </tr>
   <tr>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/c19b2e84-a357-4ddf-be78-2e8fbd40e1f0" width="200" height="300"/> </td>
