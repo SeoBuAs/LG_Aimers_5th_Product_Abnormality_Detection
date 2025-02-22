@@ -46,7 +46,8 @@ With recent advances in machine learning models, there has been a growing effort
   - Competitors: 24 teams  
   - Overall: Finished 3rd (accounting for presentation score)
 
-![Online](./images/Private_Online.png)
-![Offline](./images/Private_Online.png)
+<img src="./images/Private_Online.png" alt="Image 1" width="150px" /> 
+<img src="./images/Private_Online.png" alt="Image 2" width="150px" />
 
 ---
+
