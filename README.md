@@ -30,3 +30,17 @@ With recent advances in machine learning models, there has been a growing effort
     <td> <div align=center> <a href="https://github.com/SeoBuAs"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
   </tr>
 </table>
+
+<h3> 🏆 Execution Results </h3>
+- **LG Aimers 5th Online Hackathon**  
+  - Public Rank: 4th (F1 : 0.2509)
+  - Private Rank: 3rd (F1 : 0.2675)
+  - Competitors: 740 teams
+
+- **LG Aimers 5th Offline Hackathon**  
+  - Public Rank: 3rd (F1 : 0.3106)
+  - Private Rank: 2nd (F1 : 0.3138)
+  - Competitors: 24 teams  
+  - Overall: Finished 3rd (accounting for presentation score)
+
+
