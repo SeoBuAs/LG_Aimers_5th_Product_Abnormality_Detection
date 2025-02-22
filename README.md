@@ -32,7 +32,7 @@ With recent advances in machine learning models, there has been a growing effort
 </table>
 
 <h3> 🏆 Execution Results </h3>
-- **LG Aimers 5th Online Hackathon**  
+- **LG Aimers 5th Online Hackathon** 
   - Public Rank: 4th (F1 : 0.2509)
   - Private Rank: 3rd (F1 : 0.2675)
   - Competitors: 740 teams
