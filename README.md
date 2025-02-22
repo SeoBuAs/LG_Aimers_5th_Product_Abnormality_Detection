@@ -1,9 +1,11 @@
 # LG Aimers 5th Product Abnormality Detection
 
 ### Abstract
+---
 With recent advances in machine learning models, there has been a growing effort to proactively predict product abnormalities during the production stage. In this competition, we implemented models that determine abnormality using various process data and compared their performance. Accordingly, our team undertook a project utilizing data from an LG Display factory to perform actual abnormality detection.
 
 <h3> 👪 Team Members </h3>
+---
 <table>
   <tr>
     <td> <div align=center>  1 </div> </td>
@@ -31,7 +33,9 @@ With recent advances in machine learning models, there has been a growing effort
   </tr>
 </table>
 
+
 ### 🏆 Execution Results
+---
 - **LG Aimers 5th Online Hackathon** 
   - Public Rank: 4th (F1 : 0.2509)
   - Private Rank: 3rd (F1 : 0.2675)
