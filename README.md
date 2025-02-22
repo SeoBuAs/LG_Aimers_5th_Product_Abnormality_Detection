@@ -48,8 +48,8 @@ With recent advances in machine learning models, there has been a growing effort
 
 <table>
   <tr>
-    <td><img src="./images/Private_Online.png" alt="Image 1" width="400px" /></td>
-    <td><img src="./images/Private_Offline.png" alt="Image 2" width="400px" /></td>
+    <td><img src="./images/Private_Online.png" alt="Image 1" width="450px" /></td>
+    <td><img src="./images/Private_Offline.png" alt="Image 2" width="450px" /></td>
   </tr>
 </table>
 
