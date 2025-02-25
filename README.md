@@ -46,6 +46,8 @@ With recent advances in machine learning models, there has been a growing effort
   - Competitors: 24 teams  
   - Overall: Finished 3rd (accounting for presentation score)
 
+**Finally, We got Excellence Award from LG AI Research!**
+
 <table>
   <tr>
     <td><img src="./images/Private_Online.png" alt="Image 1" width="450px" /></td>
