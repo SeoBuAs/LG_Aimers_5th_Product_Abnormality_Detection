@@ -58,7 +58,9 @@ With recent advances in machine learning models, there has been a growing effort
 ---
 
 ### 📆 Project Procedure
+
 You can check the detailed progress on our team's Notion.
+
 https://sixth-drum-9ac.notion.site/LG-Aimers-5-7f95cb60d0164a279ae2e6575f7b8e80?pvs=4
 ---
 
