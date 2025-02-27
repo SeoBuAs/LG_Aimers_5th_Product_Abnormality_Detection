@@ -66,3 +66,12 @@ https://sixth-drum-9ac.notion.site/LG-Aimers-5-7f95cb60d0164a279ae2e6575f7b8e80?
 ---
 
 ### Ours Presentation
+You can view our presentation in the "presentations" folder of our repository.
+<table>
+  <tr>
+    <td><img src="./images/Presentation_ex1.png" alt="Image 1" width="450px" /></td>
+    <td><img src="./images/Presentation_ex2.png" alt="Image 2" width="450px" /></td>
+  </tr>
+</table>
+
+
