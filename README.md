@@ -74,4 +74,43 @@ You can view our presentation in the "presentations" folder of our repository.
   </tr>
 </table>
 
+---
+
+<h3> ⚙️ Architecture </h3>
+
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 10px; text-align: center;">Category</th>
+      <th style="border: 1px solid #ccc; padding: 10px; text-align: center;">Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <code>(Optuna +) <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Data</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <code>Data</code>: Data provided by LG Aimers (Confidential)
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model Evaluation</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        Calculate the AUC-score and select the model with the highest value.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model Application Method</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        For each model, compute the final public score and then apply Ensemble using the model with the highest AUC-score and Brier-Score.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
