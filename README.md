@@ -89,7 +89,7 @@ You can view our presentation in the "presentations" folder of our repository.
     <tr>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <code>(Optuna +) <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>
+        <code>(Optuna +) <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code> </code>
       </td>
     </tr>
     <tr>
