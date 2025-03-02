@@ -101,7 +101,7 @@ You can view our presentation in the "presentations" folder of our repository.
     <tr>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model Evaluation</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        Calculate the AUC-score and select the model with the highest value.
+        Calculate the AUC-score and select the model with the highest value.
       </td>
     </tr>
     <tr>
